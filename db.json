@@ -1,0 +1,79 @@
+{
+    "hotels": [
+        {
+            "category": "Family",
+            "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+            "type_of_room": "AC",
+            "bed_type": "Double",
+            "no_of_persons": "2",
+            "capacity": "3",
+            "cost": "4000",
+            "booked": true,
+            "id": 1
+        },
+        {
+            "category": "Deluxe",
+            "image_url": "https://www.eroshotels.co.in/wp-content/uploads/2018/04/superior-room-home-page.jpg",
+            "type_of_room": "AC",
+            "bed_type": "Single",
+            "no_of_persons": "2",
+            "capacity": "3",
+            "cost": "3240",
+            "booked": true,
+            "id": 2
+        },
+        {
+            "category": "Suite",
+            "image_url": "https://www.eroshotels.co.in/wp-content/uploads/2018/04/superior-room-home-page.jpg",
+            "type_of_room": "non AC",
+            "bed_type": "Double",
+            "no_of_persons": "5",
+            "capacity": "8",
+            "cost": "5520",
+            "booked": false,
+            "id": 3
+        },
+        {
+            "category": "Deluxe",
+            "image_url": "https://ellaahotel.com/wp-content/uploads/2022/03/Group-53.jpg",
+            "type_of_room": "non AC",
+            "bed_type": "Single",
+            "no_of_persons": "4",
+            "capacity": "5",
+            "cost": "5210",
+            "booked": false,
+            "id": 4
+        },
+        {
+            "category": "Family",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMVl4UmnzmjoDGc_6Ypxsm60cpfe--XS-10w&usqp=CAU",
+            "type_of_room": "non AC",
+            "bed_type": "Double",
+            "no_of_persons": "80",
+            "capacity": "100",
+            "cost": "1080",
+            "booked": true,
+            "id": 5
+        }
+    ],
+    "users": [
+        {
+            "username": "viratkohli",
+            "email": "virat.kohli@gmail.com",
+            "password": "Virat@123",
+            "id": 1
+        },
+        {
+            "username": "stevesmith",
+            "email": "steve.smith@gmail.com",
+            "password": "Steve@123",
+            "id": 2
+        },
+        {
+            "username": "msdhoni",
+            "email": "ms.dhoni@gmail.com",
+            "password": "Dhoni@123",
+            "id": 3
+        }
+    ]
+}
